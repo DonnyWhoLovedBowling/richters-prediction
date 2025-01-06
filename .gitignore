@@ -1,0 +1,7 @@
+*.csv
+*.png
+mlartifacts/
+mlruns/
+.venv
+.idea/
+__pycache__/
